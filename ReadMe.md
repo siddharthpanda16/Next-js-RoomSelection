@@ -1,3 +1,11 @@
+<h1>Assessment 1</h1>
+
+<h2>HOW TO RUN</h2>
+
+1. Navigate to "Assessment 1" folder. 
+2. Open the index.html file in browser.
+3. The webpage is responsive to all screensizes.
+
 <h1>Assessment 2</h1>
 
 <h2>TEST CASES</h2>
@@ -21,4 +29,7 @@ Children drop-down field values: [0, 1, 2]
 
 <h2>HOW TO RUN</h2>
 
-1. Navigate to "test2-app" folder. 
+1. Navigate to "Assessment 1/test2-app" folder. 
+2. Open Terminal/Commdand Prompt
+3. execute "npm run dev"
+4. type: "http://localhost:3000" in browser.
