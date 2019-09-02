@@ -31,5 +31,6 @@ Children drop-down field values: [0, 1, 2]
 
 1. Navigate to "Assessment 1/test2-app" folder. 
 2. Open Terminal/Commdand Prompt
-3. execute "npm run dev"
-4. type: "http://localhost:3000" in browser.
+3. npm install
+4. execute "npm run dev"
+5. type: "http://localhost:3000" in browser.
